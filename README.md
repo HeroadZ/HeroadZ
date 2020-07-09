@@ -1,11 +1,21 @@
-### Hi there 👋
+### About me 
+Hi 👋, I'm heroadZ, now a master student of Waseda University in Tokyo, Japan. 
+
+My major is Big Data Analysis (_BDA_), especially Natural Language Processing (_NLP_). Besides, I'm also interested in _front end_ web development.   
+
+🌱 skill set: _Pytorch_, _TypeScript (React)_
+
+💬 If you have any question or comment, feel free to talk with me!
+
+
+
 
 <!--
 **HeroadZ/HeroadZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studing on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
