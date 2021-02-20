@@ -3,7 +3,7 @@ Hi 👋, I'm heroadZ, now a master student of Waseda University in Tokyo, Japan.
 
 My major is Big Data Analysis (_BDA_), especially Natural Language Processing (_NLP_). Besides, I'm also interested in _front end_ web development.   
 
-🌱 skill set: _Pytorch_, _TypeScript (React)_
+🌱 skill set: _Pytorch_, _TypeScript_
 
 💬 If you have any question or comment, feel free to talk with me!
 
