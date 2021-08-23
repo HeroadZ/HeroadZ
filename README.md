@@ -1,5 +1,5 @@
 ### About me 
-Hi 👋, I'm heroadZ, now a master student of Waseda University in Tokyo, Japan. 
+Hi 👋, I'm heroadZ, now worked in Tokyo, Japan. 
 
 My major is Big Data Analysis (_BDA_), especially Natural Language Processing (_NLP_). Besides, I'm also interested in _front end_ web development.   
 
