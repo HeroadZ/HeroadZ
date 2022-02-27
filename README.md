@@ -1,9 +1,7 @@
 ### About me 
-Hi 👋, I'm heroadZ, now worked in Tokyo, Japan. 
+Hi 👋, I'm heroadZ, a software engineer at Yahoo!Japan in Tokyo, Japan.  
 
-My major is Big Data Analysis (_BDA_), especially Natural Language Processing (_NLP_). Besides, I'm also interested in _front end_ web development.   
-
-🌱 skill set: _Pytorch_, _TypeScript_
+🌱 familiar with: _Python_, _Pytorch_, _Java_, _Kotin_, _NLP_
 
 💬 If you have any question or comment, feel free to talk with me!
 
