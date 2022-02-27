@@ -1,7 +1,7 @@
 ### About me 
 Hi 👋, I'm heroadZ, a software engineer at Yahoo!Japan in Tokyo, Japan.  
 
-🌱 familiar with: _Python_, _Pytorch_, _Java_, _Kotin_, _NLP_
+🌱 I’m currently learning: _Python_, _Pytorch_, _Java_, _Kotin_, _TypeScript_, _NLP_
 
 💬 If you have any question or comment, feel free to talk with me!
 
