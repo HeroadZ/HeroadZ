@@ -1,5 +1,5 @@
 ### About me 
-Hi 👋, I'm heroadZ, a software engineer at Yahoo!Japan in Tokyo, Japan.  
+Hi 👋, I'm chance, a software engineer at Yahoo!Japan in Tokyo, Japan.  
 
 🌱 I’m currently learning: _Python_, _Pytorch_, _Java_, _Kotin_, _TypeScript_, _NLP_
 
