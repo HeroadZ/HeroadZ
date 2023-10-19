@@ -1,7 +1,7 @@
 ### About me 
-Hi 👋, I'm chance, a software engineer at Yahoo!Japan in Tokyo, Japan.  
+Hi 👋, I'm ryan, a software engineer at Yahoo!Japan in Tokyo, Japan.  
 
-🌱 I’m currently learning: _Python_, _Pytorch_, _Java_, _Kotin_, _TypeScript_, _NLP_
+🌱 Intersted in: AI, HCI, funny technologies
 
 💬 If you have any question or comment, feel free to talk with me!
 
