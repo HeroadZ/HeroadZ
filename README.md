@@ -1,5 +1,5 @@
 ### About me 
-Hi 👋, I'm ryan, a software engineer at Yahoo!Japan in Tokyo, Japan.  
+Hi 👋, I'm ryan, a software engineer at LY corporation in Tokyo, Japan.  
 
 🌱 Intersted in: AI, HCI, funny technologies
 
